@@ -1,0 +1,132 @@
+[
+    {
+        "Medicine":
+                {
+                    "ID": "200011",
+                    "Quantity": "100",
+                    "Name": "Panadol",
+                    "Place": "SidiGaber-Branch",
+                    "Price": "16.0",
+                    "Manufacture": "GSK",  
+                    "ExpireDate": "28-11-2026"   
+                }
+    }
+
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "200121",
+                    "Quantity": "250",
+                    "Name": "Otrivin",
+                    "Place": "ElSyouf-Branch",
+                    "Price": "9.0",
+                    "Manufacture": "GSK",  
+                    "ExpireDate": "7-5-2025"
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "200356",
+                    "Quantity": "200",
+                    "Name": "Flagyl",
+                    "Place": "Miami-Branch",
+                    "Price": "12.0",
+                    "Manufacture": "Sanofi",  
+                    "ExpireDate": "3-12-2026"
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "200520",
+                    "Quantity": "18",
+                    "Name": "Augmentin",
+                    "Place": "Smouha-Branch",
+                    "Price": "90.0",
+                    "Manufacture": "GSK",  
+                    "ExpireDate": "21-9-2023"    
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "200120",
+                    "Quantity": "124",
+                    "Name": "Mobitil",
+                    "Place": "Roushdy-Branch",
+                    "Price": "12.0",
+                    "Manufacture": "MUP",  
+                    "ExpireDate": "5-6-2026"    
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "200784",
+                    "Quantity": "14",
+                    "Name": "Cymabtex",
+                    "Place": "RamlStation-Branch",
+                    "Price": "166.0",
+                    "Manufacture": "Evapharma",  
+                    "ExpireDate": "19-11-2025"  
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "200217",
+                    "Quantity": "7",
+                    "Name": "Zofran",
+                    "Place": "Louran-Branch",
+                    "Price": "260.0",
+                    "Manufacture": "Sandoz",  
+                    "ExpireDate": "7-1-2025" 
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "200391",
+                    "Quantity": "50",
+                    "Name": "Disflatyl",
+                    "Place": "SidiBishr-Branch",
+                    "Price": "33.0",
+                    "Manufacture": "ValeantPharma",  
+                    "ExpireDate": "8-2-2024"  
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "200567",
+                    "Quantity": "21",
+                    "Name": "Curam",
+                    "Place": "AlIbrahymia-Branch",
+                    "Price": "76.25",
+                    "Manufacture": "Novartis",  
+                    "ExpireDate": "14-4-2026"    
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "200145",
+                    "Quantity": "43",
+                    "Name": "Multirelax",
+                    "Place": "ELShatby-Branch",
+                    "Price": "20.5",
+                    "Manufacture": "MultiApex",  
+                    "ExpireDate": "2-12-2025"    
+                }
+    }
+]

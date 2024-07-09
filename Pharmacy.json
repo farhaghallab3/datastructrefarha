@@ -1,0 +1,132 @@
+[
+    {
+        "Medicine":
+                {
+                    "ID": "1",
+                    "Quantity": "30",
+                    "Name": "Welness",
+                    "Place": "SidiGaber-Branch",
+                    "Price": "16.0",
+                    "Manufacture": "GSK",  
+                    "ExpireDate": "28-11-2026"   
+                }
+    }
+
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "2",
+                    "Quantity": "250",
+                    "Name": "Congestal",
+                    "Place": "ElSyouf-Branch",
+                    "Price": "9.0",
+                    "Manufacture": "GSK",  
+                    "ExpireDate": "7-5-2025"
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "3",
+                    "Quantity": "200",
+                    "Name": "Hibiotic",
+                    "Place": "Miami-Branch",
+                    "Price": "12.0",
+                    "Manufacture": "Sanofi",  
+                    "ExpireDate": "3-12-2026"
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "4",
+                    "Quantity": "18",
+                    "Name": "Augmentin",
+                    "Place": "Smouha-Branch",
+                    "Price": "90.0",
+                    "Manufacture": "GSK",  
+                    "ExpireDate": "21-9-2023"    
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "5",
+                    "Quantity": "124",
+                    "Name": "Feroglobin",
+                    "Place": "Roushdy-Branch",
+                    "Price": "12.0",
+                    "Manufacture": "MUP",  
+                    "ExpireDate": "5-6-2026"    
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "6",
+                    "Quantity": "14",
+                    "Name": "C-Retard",
+                    "Place": "RamlStation-Branch",
+                    "Price": "166.0",
+                    "Manufacture": "Evapharma",  
+                    "ExpireDate": "19-11-2025"  
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "7",
+                    "Quantity": "7",
+                    "Name": "Levohistam",
+                    "Place": "Louran-Branch",
+                    "Price": "260.0",
+                    "Manufacture": "Sandoz",  
+                    "ExpireDate": "7-1-2025" 
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "8",
+                    "Quantity": "50",
+                    "Name": "Aerius",
+                    "Place": "SidiBishr-Branch",
+                    "Price": "33.0",
+                    "Manufacture": "ValeantPharma",  
+                    "ExpireDate": "8-2-2024"  
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "9",
+                    "Quantity": "21",
+                    "Name": "Panadol",
+                    "Place": "AlIbrahymia-Branch",
+                    "Price": "76.25",
+                    "Manufacture": "Novartis",  
+                    "ExpireDate": "14-4-2026"    
+                }
+    }
+    ,
+    {
+        "Medicine":
+                {
+                    "ID": "10",
+                    "Quantity": "43",
+                    "Name": "Adol",
+                    "Place": "Alex",
+                    "Price": "20.5",
+                    "Manufacture": "Egypt",  
+                    "ExpireDate": "7-12-2022"    
+                }
+    }
+]
